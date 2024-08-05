@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/GDGPlateList/static/css/main.1c2be8c3.css",
+    "main.js": "/GDGPlateList/static/js/main.cdff9e8e.js",
+    "static/js/453.1d8d1aef.chunk.js": "/GDGPlateList/static/js/453.1d8d1aef.chunk.js",
+    "static/media/keys.jpeg": "/GDGPlateList/static/media/keys.9a983369d3a05e655bcc.jpeg",
+    "static/media/GDG_Logo.png": "/GDGPlateList/static/media/GDG_Logo.b94af8278ddd1ad7973a.png",
+    "index.html": "/GDGPlateList/index.html",
+    "static/media/chevron-right.svg": "/GDGPlateList/static/media/chevron-right.597fe3d8ed529406dc9c3e43721773e3.svg",
+    "main.1c2be8c3.css.map": "/GDGPlateList/static/css/main.1c2be8c3.css.map",
+    "main.cdff9e8e.js.map": "/GDGPlateList/static/js/main.cdff9e8e.js.map",
+    "453.1d8d1aef.chunk.js.map": "/GDGPlateList/static/js/453.1d8d1aef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c2be8c3.css",
+    "static/js/main.cdff9e8e.js"
+  ]
+}
