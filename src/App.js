@@ -1,5 +1,6 @@
 import keys from './keys.jpeg';
-import logo from './GDG_Logo.png'
+import logo from './GDG_Logo.png';
+import chev from './chevron-right.svg';
 import './App.css';
 import Collapsible from 'react-collapsible';
 
@@ -23,7 +24,7 @@ function App() {
       </div>
       <Collapsible trigger="40-60%">
         <ul>
-          <Collapsible trigger="Candybar"><li>Candybar</li></Collapsible>
+          <Collapsible trigger='Candybar'><li>Candybar</li></Collapsible>
           <Collapsible trigger="Plate Name 2"><li>Plate Name 2</li></Collapsible>
           <Collapsible trigger="Plate Name 3"><li>Plate Name 3</li></Collapsible>
           <Collapsible trigger="Plate Name 4"><li>Plate Name 4</li></Collapsible>

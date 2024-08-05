@@ -21,7 +21,9 @@
   /* height: 30vh; */
   /* display: block; */
 }
-
+.chevy{
+  display: inline-block;
+}
 .main-layout {
   width: 80%;
   align-items: left;
